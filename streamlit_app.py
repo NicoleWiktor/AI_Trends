@@ -22,11 +22,13 @@ This file should:
 # TODO: Display recent articles and trends
 # TODO: Include pipeline control buttons
 
-# TODO: Create Live Agent interface
-# TODO: Add text input for user queries
+# TODO: Create Live Agent interface (Chatbot)
+# TODO: Add text input for user queries with chat-like interface
 # TODO: Route queries through Intent Router
 # TODO: Display agent responses and tool usage
-# TODO: Include conversation history
+# TODO: Include conversation history and memory
+# TODO: Show when web search is used to fill gaps
+# TODO: Display citations and sources for all responses
 
 # TODO: Create trend cards display
 # TODO: Show Technical Trend Cards from DAG

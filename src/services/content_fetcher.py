@@ -11,7 +11,7 @@ This file should:
 """
 
 # TODO: Import necessary modules
-# TODO: Import feedparser, requests, beautifulsoup4, newspaper3k, etc.
+# TODO: Import feedparser, requests, newspaper3k, trafilatura, readability-lxml, boilerpipe3
 
 # TODO: Create ContentFetcher class
 # TODO: Initialize with configuration (user agent, timeouts, etc.)
@@ -23,6 +23,9 @@ This file should:
 # TODO: Auto-detect link type (RSS, article, blog, paper, social media, etc.)
 # TODO: Handle different content formats (HTML, PDF, JSON, XML, etc.)
 # TODO: Implement intelligent content extraction strategies for each type
+# TODO: Use trafilatura for primary content extraction (AI-powered)
+# TODO: Fall back to readability-lxml for complex sites
+# TODO: Use boilerpipe3 for additional content cleaning
 # TODO: Add link validation and testing capabilities
 # TODO: Handle rate limiting and respect robots.txt
 # TODO: Implement fallback extraction methods for difficult sites

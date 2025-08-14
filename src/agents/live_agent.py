@@ -25,6 +25,8 @@ Based on user requirements:
 # TODO: Implement RetrieverTool
 # TODO: Purpose: Get the best supporting chunks for a question
 # TODO: How it works: Query FAISS with filters (lane/date/source), use MMR to keep results diverse
+# TODO: Integrate with web search when RAG sources are insufficient
+# TODO: Notify user when web search is used to fill gaps
 
 # TODO: Implement ExplainTool
 # TODO: Purpose: Give a clear, short explanation from real sources
@@ -52,6 +54,8 @@ Based on user requirements:
 # TODO: Define state schema for the agent
 # TODO: Wire all nodes with proper edges and conditional routing
 # TODO: Add error handling and tool fallbacks
+# TODO: Include web search integration for comprehensive responses
+# TODO: Implement chatbot conversation flow with memory
 
 # TODO: Expose agent interface
 # TODO: Method to process user query

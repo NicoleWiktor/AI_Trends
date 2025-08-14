@@ -2,7 +2,7 @@
 
 # Core AI/ML Libraries - Agentic AI Focus
 # TODO: Add LangChain, LangGraph, LangChain Community packages
-# TODO: Add OpenAI (primary LLM provider)
+# TODO: Add OpenAI (primary LLM provider with web search capability)
 # TODO: Add Hugging Face Transformers (free alternative)
 # TODO: Add Ollama for local LLM support (free backup)
 
@@ -28,9 +28,12 @@
 # TODO: Add SQLAlchemy, Alembic packages
 
 # Web Scraping & RSS
-# TODO: Add feedparser, beautifulsoup4, requests, newspaper3k packages
+# TODO: Add feedparser, requests, newspaper3k packages
+# TODO: Add trafilatura (FREE - AI-enhanced content extraction) - better than BeautifulSoup
+# TODO: Add readability-lxml (FREE - AI-powered content detection)
+# TODO: Add boilerpipe3 (FREE - ML-based content cleaning)
 # TODO: Add urllib3, lxml, html5lib for enhanced link handling
-# TODO: Add PyPDF2 or pdfplumber for PDF content extraction
+# TODO: Add PyPDF2 (FREE) for PDF content extraction
 # TODO: Add jsonschema for JSON content validation
 
 # Frontend Alternative (Streamlit)
