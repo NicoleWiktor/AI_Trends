@@ -201,6 +201,4 @@ ai_news_trends/
 
 This project is currently in the **planning and structure phase**. All file structures, TODOs, and architecture are in place. The next phase involves implementing the actual code based on the comprehensive TODO documentation in each file.
 
-## License
 
-[Add your license information here]
