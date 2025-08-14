@@ -1,0 +1,28 @@
+# Environment / secrets
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual envs
+venv/
+.env/
+.env.test/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Packaging / build
+build/
+dist/
+*.egg-info/
+
+# Tests / notebooks
+.pytest_cache/
+.ipynb_checkpoints/

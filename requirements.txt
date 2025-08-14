@@ -6,13 +6,7 @@ openai
 transformers
 torch
 
-# Agentic AI & Memory
-langchain-memory
-langchain-agents
-langchain-planning
-
 # Vector Database & Embeddings
-openai-embeddings
 sentence-transformers
 chromadb
 faiss-cpu
