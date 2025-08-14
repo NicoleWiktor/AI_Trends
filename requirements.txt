@@ -1,46 +1,59 @@
-# TODO: Add your Python dependencies here
-
 # Core AI/ML Libraries - Agentic AI Focus
-# TODO: Add LangChain, LangGraph, LangChain Community packages
-# TODO: Add OpenAI (primary LLM provider with web search capability)
-# TODO: Add Hugging Face Transformers (free alternative)
-# TODO: Add Ollama for local LLM support (free backup)
+langchain
+langgraph
+langchain-community
+openai
+transformers
+torch
 
 # Agentic AI & Memory
-# TODO: Add LangChain Memory components (ConversationBufferMemory, etc.)
-# TODO: Add LangChain Agent tools and executors
-# TODO: Add LangChain Planning and reasoning components
+langchain-memory
+langchain-agents
+langchain-planning
 
 # Vector Database & Embeddings
-# TODO: Add OpenAI embeddings (primary) and sentence-transformers (free backup)
-# TODO: Add Chroma (free vector database) or FAISS
-# TODO: Add numpy, pandas for data processing
+openai-embeddings
+sentence-transformers
+chromadb
+faiss-cpu
+numpy
+pandas
 
 # Text Processing & Analysis
-# TODO: Add yake (keyword extraction) or keybert
-# TODO: Add scikit-learn for clustering (hdbscan optional)
-# TODO: Add nltk for text processing
+yake
+keybert
+scikit-learn
+nltk
 
-# Web Framework & API
-# TODO: Add FastAPI, Uvicorn, Pydantic packages
-
-# Database & ORM
-# TODO: Add SQLAlchemy, Alembic packages
+# Web Framework & Database
+fastapi
+uvicorn
+sqlalchemy
+alembic
 
 # Web Scraping & RSS
-# TODO: Add feedparser, requests, newspaper3k packages
-# TODO: Add trafilatura (FREE - AI-enhanced content extraction) - better than BeautifulSoup
-# TODO: Add readability-lxml (FREE - AI-powered content detection)
-# TODO: Add boilerpipe3 (FREE - ML-based content cleaning)
-# TODO: Add urllib3, lxml, html5lib for enhanced link handling
-# TODO: Add PyPDF2 (FREE) for PDF content extraction
-# TODO: Add jsonschema for JSON content validation
+feedparser
+requests
+newspaper3k
+trafilatura
+readability-lxml
+boilerpipe3
+urllib3
+lxml
+html5lib
 
-# Frontend Alternative (Streamlit)
-# TODO: Add streamlit for web interface (free, Python-based)
+# PDF Processing
+PyPDF2
+
+# Frontend
+streamlit
 
 # Utilities
-# TODO: Add python-dotenv, httpx packages
+python-dotenv
+httpx
+jsonschema
 
-# Development & Testing
-# TODO: Add pytest, black, flake8 packages
+# Development
+pytest
+black
+flake8
